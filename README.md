@@ -2,6 +2,8 @@
 
 I am a graduate in computer engineering, with a master's degree in high-performance computing and experience in the private sector in both large and smaller companies. During my studies I concentrated on the branch of computing in order to face complex problems and later, with the master on high-performance computing, optimize processes as much as possible.
 
+Currently I am dedicated to developing AI-based applications and optimizing them to be used in real time. I also like sports, being a federated basketball player, and the world of free and open source software.
+
 ### Trajectory
 
 - 💼 **AI based Software Engineer** at [Cinfo](https://www.cinfo.es/es/)
