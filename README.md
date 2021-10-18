@@ -43,6 +43,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 - LinkedIn: [linkedin.com/in/brunocabado](https://www.linkedin.com/in/brunocabado/)
 - Twitter: [twitter.com/brunocabado](https://twitter.com/brunocabado)
 - E-mail: sr.brunocabado@gmail.com
+- Website: [kr4is.github.io](https://kr4is.github.io/)
 
 If you like what i do, maybe consider buying me a coffee/tea 🤙:
 
