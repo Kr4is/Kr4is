@@ -53,5 +53,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🤙:
 
 ### Github repository information:
 
-![Bruno Cabados's github stats](https://github-readme-stats.vercel.app/api?username=Kr4is&show_icons=true&hide_border=true)
-![Bruno Cabados's most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kr4is&show_icons=true&locale=en&layout=compact)
+<div class="row" style="clear: both">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kr4is&show_icons=true&hide_border=true" style="float: left; width: 50%" alt="Bruno Cabados's github stats">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr4is&show_icons=true&locale=en&layout=compact" style="float: left; width: 50%" alt="Bruno Cabados's most used Languages">
+  </div>
+</div>
