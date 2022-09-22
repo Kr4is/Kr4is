@@ -30,6 +30,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-128/ffmpeg-569477.png"></code>
 <code><img height="20" src="https://maxcdn.icons8.com/Share/icon/Operating_Systems/linux1600.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"></code>
+<code><img height="20" src="https://icon.horse/icon/mlflow.org"></code>
 
 ### Tools
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
