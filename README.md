@@ -34,6 +34,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 
 ### Tools
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
+<code><img height="20" src="https://icon.horse/icon/www.zsh.org"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_precommit.svg"></code>
