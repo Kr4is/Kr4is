@@ -28,7 +28,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cmake.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_conan.svg"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-128/ffmpeg-569477.png"></code>
-<code><img height="20" src="https://maxcdn.icons8.com/Share/icon/Operating_Systems/linux1600.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest?cb=20210707041309"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"></code>
 <code><img height="20" src="https://icon.horse/icon/mlflow.org"></code>
 
