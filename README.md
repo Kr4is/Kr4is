@@ -20,6 +20,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp3.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg"></code>
 
 ### Technologies
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
