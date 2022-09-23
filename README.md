@@ -42,6 +42,7 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_precommit.svg"></code>
 <code><img height="20" src="https://icon.horse/icon/dvc.org"></code>
 <code><img height="20" src="https://img.stackshare.io/service/2197/tmux.png"></code>
+<code><img height="20" src="https://icon.horse/icon/gnome-terminator.org"></code>
 
 ### Contact ways
 
