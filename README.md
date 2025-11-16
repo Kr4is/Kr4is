@@ -1,16 +1,15 @@
 # Hello, I'm Bruno Cabado 🎩
 
-I am a PhD researcher in computer science, with a computer science degree and a master's degree in high-performance computing and experience in the private sector in both large and smaller companies. During my studies I concentrated on the branch of computing in order to face complex problems and later, with the master on high-performance computing, optimize processes as much as possible.
+I am an Artificial Intelligence Engineer and PhD Researcher specializing in Natural Language Processing, Computer Vision, and Deep Learning, currently based in Galicia, Spain. With a background that includes a degree in Computer Science and a Master's in High-Performance Computing, I have experience in the private sector with both large and small companies. My academic and professional journey has been focused on tackling complex problems and optimizing processes as much as possible. 
 
-Currently I am dedicated to developing AI-based applications and optimizing them to be used in real time. I also like sports, being a federated basketball player, and the world of free and open source software.
+Currently, I am dedicated to developing AI-based applications and optimizing them for real-time use. I am also a passionate advocate for free and open-source software and enjoy sports, being a federated basketball player.
 
 ### Trajectory
 
-- 💼 **AI based Software Engineer** at [Cinfo](https://www.cinfo.es/es/)
-- 🔭 PhD Researcher in **Computer Science** at [UDC](https://udc.gal/) and [Cinfo](https://www.cinfo.es/es/)
-- 🔭 Bachelor's degree in **Computer Engineering** at [UDC](https://udc.gal/)
-- 🔭 Master's degree in **High Performance Computing** at [UDC](https://udc.gal/)
-- 🌱 I’m currently learning **Artifical Intelligence**
+- 💼 **AI Engineer**
+- 🔭 **PhD in Artificial Intelligence**
+- 🔭 **Master's degree in Computer Science**
+- 🔭 **Bachelor's degree in Computer Engineering**
 - ⚙️ Mastering: `.py`, `.cpp`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Free and Open Source** communities
@@ -46,26 +45,16 @@ Currently I am dedicated to developing AI-based applications and optimizing them
 <code><img height="20" src="https://img.stackshare.io/service/2197/tmux.png"></code>
 <code><img height="20" src="https://icon.horse/icon/gnome-terminator.org"></code>
 
-### Contact ways
+### Contact
 
-- GitHub: [github.com/Kr4is](https://github.com/Kr4is)
-- GitLab: [gitlab.com/Kr4is](https://gitlab.com/Kr4is)
-- LinkedIn: [linkedin.com/in/brunocabado](https://www.linkedin.com/in/brunocabado/)
+- Website: [brunocabado.com](https://brunocabado.com)
+- GitHub: [github.com/brunocabado](https://github.com/brunocabado)
+- GitLab: [gitlab.com/brunocabado](https://gitlab.com/brunocabado)
+- LinkedIn: [linkedin.com/in/brunocabado](https://www.linkedin.com/in/brunocabado)
 - Twitter: [twitter.com/brunocabado](https://twitter.com/brunocabado)
-- E-mail: sr.brunocabado@gmail.com
-- Website: [kr4is.github.io](https://kr4is.github.io/)
+- Instagram: [instagram.com/brunocabado](https://instagram.com/brunocabado)
+- Discord: [discord.com/users/brunocabado](https://discord.com/users/brunocabado)
 
 If you like what i do, maybe consider buying me a coffee/tea 🤙:
 
 <a href="https://www.buymeacoffee.com/brunocabado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
-
-### Github repository information:
-
-<div class="row" style="clear: both">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kr4is&show_icons=true&hide_border=true" style="float: left; width: 50%" alt="Bruno Cabados's github stats">
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kr4is&show_icons=true&locale=en&layout=compact" style="float: left; width: 50%" alt="Bruno Cabados's most used Languages">
-  </div>
-</div>
